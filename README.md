@@ -1,1 +1,1 @@
-Odin Project recipes task.
+Applying basic HTML concepts to create a simple recipe website.
